@@ -14,6 +14,7 @@ window, January 3, 2021 through January 3, 2023.
 - `requests`
 - `plotly`
 - `ipykernel`
+- `PyYAML`
 - Optional: `kaleido` for static Plotly image export
 
 The notebook contains a top dependency block with the version guidance used for

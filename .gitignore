@@ -21,4 +21,5 @@ Thumbs.db
 twitter-caucus-118/data/raw/tweets/*.json
 twitter-caucus-118/data/raw/accounts/*.json
 twitter-caucus-118/data/raw/service_dates/*.json
+twitter-caucus-118/data/raw/service_dates/*.yaml
 twitter-caucus-118/data/raw/service_dates/*.csv
