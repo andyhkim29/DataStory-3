@@ -1,0 +1,6 @@
+pandas>=2.0
+requests>=2.31
+plotly>=5.18
+ipykernel
+notebook
+kaleido
